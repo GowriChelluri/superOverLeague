@@ -1,0 +1,19 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+.img {
+  width: 230px;
+  height: 230px;
+}
